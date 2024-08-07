@@ -1,0 +1,16 @@
+/* custom/elementor-modal.scss */
+.elementor-add-new-section .elementor-add-envato-button {
+  background-color: #81b440;
+  margin-left: 5px;
+  background-image: url('data:image/svg+xml,<?xml version="1.0" encoding="UTF-8" standalone="no"?>%0A<svg%0A   xmlns:dc="http://purl.org/dc/elements/1.1/"%0A   xmlns:cc="http://creativecommons.org/ns%23"%0A   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns%23"%0A   xmlns:svg="http://www.w3.org/2000/svg"%0A   xmlns="http://www.w3.org/2000/svg"%0A   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"%0A   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"%0A   version="1.1"%0A   id="svg4170"%0A   viewBox="0 0 20 21.000001"%0A   height="21"%0A   width="20"%0A   inkscape:version="0.91 r13725"%0A   sodipodi:docname="envato-logo-white.svg">%0A  <sodipodi:namedview%0A     pagecolor="%23ffffff"%0A     bordercolor="%23666666"%0A     borderopacity="1"%0A     objecttolerance="10"%0A     gridtolerance="10"%0A     guidetolerance="10"%0A     inkscape:pageopacity="0"%0A     inkscape:pageshadow="2"%0A     inkscape:window-width="1231"%0A     inkscape:window-height="660"%0A     id="namedview4831"%0A     showgrid="false"%0A     units="px"%0A     inkscape:zoom="14.528412"%0A     inkscape:cx="14.69007"%0A     inkscape:cy="10.298952"%0A     inkscape:window-x="236"%0A     inkscape:window-y="291"%0A     inkscape:window-maximized="0"%0A     inkscape:current-layer="layer1" />%0A  <defs%0A     id="defs4172" />%0A  <metadata%0A     id="metadata4175">%0A    <rdf:RDF>%0A      <cc:Work%0A         rdf:about="">%0A        <dc:format>image/svg+xml</dc:format>%0A        <dc:type%0A           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />%0A        <dc:title></dc:title>%0A      </cc:Work>%0A    </rdf:RDF>%0A  </metadata>%0A  <g%0A     transform="matrix(0.15258256,0,0,0.15258256,-1.9696686,-10.697943)"%0A     id="layer1">%0A    <path%0A       style="fill:%23f0f5fa;fill-opacity:1"%0A       id="path7"%0A       d="m 118.40629,74.265145 c -3.43888,-1.900432 -13.30303,-0.723974 -25.158105,2.895897 -20.814261,14.207996 -38.280142,35.112798 -39.547097,68.687128 -0.180993,0.81448 -2.26242,-0.0905 -2.714901,-0.36198 -5.610801,-10.76912 -7.782724,-22.08122 -3.167387,-38.37067 0.904967,-1.44795 -1.99093,-3.25788 -2.533911,-2.7149 -0.995464,0.99546 -5.33931,5.6108 -8.144711,10.49762 -14.117499,24.43417 -4.886826,55.83655 19.818795,69.59206 24.705623,13.75552 55.836517,4.88683 69.592027,-19.81879 15.92743,-28.50649 1.17646,-85.248048 -8.14471,-90.406365 z"%0A       class="st0"%0A       inkscape:connector-curvature="0" />%0A  </g>%0A</svg>%0A');
+  background-repeat: no-repeat;
+  background-position: 48% 50%;
+  background-size: 17px auto;
+}
+.elementor-add-new-section .elementor-add-envato-button i::before {
+  content: ".";
+}
+.elementor-add-new-section .elementor-add-envato-button i.fa {
+  visibility: hidden;
+}
+/*# sourceMappingURL=elementor-modal.css.map */

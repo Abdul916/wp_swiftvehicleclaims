@@ -1,0 +1,2 @@
+[16-May-2024 17:38:40 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[12-Jun-2024 21:14:59 UTC] Cron reschedule event error for hook: otter_montly_scheduled_events, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"monthly","args":[],"interval":2635200}
